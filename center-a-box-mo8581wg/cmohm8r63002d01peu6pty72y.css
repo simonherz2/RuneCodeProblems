@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background: #f3f4f6;
+
+    display: flex;
+    justify-content: center; /* horizontal */
+    align-items: center;     /* vertical */
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background: #3b82f6;
+    border-radius: 8px;
+}
